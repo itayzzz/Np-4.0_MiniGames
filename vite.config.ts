@@ -20,3 +20,6 @@ export default defineConfig({
     outDir: './nui/dist'
   },
 });
+
+
+table "new state"
